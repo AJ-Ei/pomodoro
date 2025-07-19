@@ -91,7 +91,7 @@ function App() {
   return (
     <>
     <div className="container">
-      <h3>25 + 5 Clock</h3>
+      <h3>Pomodoro</h3>
       <div className="clock-controls">
         <div className="break">
           <h4 id="break-label">Break Length</h4>
